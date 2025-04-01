@@ -3,6 +3,7 @@
     public class Nomencladores
     {
         public int IdNomenclador { get; set; }
+        public String codigo { get; set; }
         public String descripcion { get; set; }
 
     }

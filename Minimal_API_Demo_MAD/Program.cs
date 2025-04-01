@@ -28,4 +28,6 @@ app.UseHttpsRedirection();
 
 app.MapNomencladorEndPoints();
 
+
+
 app.Run();
